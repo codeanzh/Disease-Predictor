@@ -12,6 +12,6 @@ scikit-learn==0.23.1
 scipy==1.5.1
 six==1.15.0
 sklearn==0.0
-tflite-runtime==2.5.0
+tflite-runtime @ https://github.com/google-coral/pycoral/releases/download/release-frogfish/tflite_runtime-2.5.0-cp36-cp36m-linux_x86_64.whl
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
